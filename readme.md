@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Title" src="midterm.png" />
+  <img alt="Title" src="final_pic.png" />
 </p>
 
 # Arduino Final Project
