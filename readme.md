@@ -1,16 +1,31 @@
-#Final exam
+<p align="center">
+  <img alt="Title" src="midterm.png" />
+</p>
+
+# Arduino Final Project
+
+The repository for my final project for my Physical Computing class while an undergrad at the University of Miami.
+
+The project creates a flashing LED screen that lights up in time with the rhythmic groove of the Beatles' "Here Comes the Sun".
+
+It won Best in Show at the 2017 Interactive Media Showcase at the University of Miami.
+
+
+## Code
+
+This project was built using Processing, C++, and Arduino
+
+
+## Contributors
+
+- [@mackmilllr](https://twitter.com/mackmilllr) Coder
+- [@zevensuy](https://twitter.com/Zevensuy) Advisor
+
+## Additional Notes
 
 Ever go to a performance or event where people are supposed to be clapping to the beat and just aren't getting it? And the Doppler Effect can't be blamed?
 
 For some people, understanding rhythm is more than just hearing someone else clap; an added visual element is necessary.
-
-Introducing....
-
-##Sunny Beats
-
--Make sure processing.serial, ddf.minim, ddf.minim.analysis, and cc.arduino libraries are imported-
-
-Basic Psuedocode: When user presses a button, the led design lights up and flashes to the rhythm of the MP3 song that is activated.
 
 Goals: 1) Show user visual representation of rhythm/beat
        2) as few extra gizmos as possible (ex: no microphone or audio input necessary)
@@ -18,16 +33,6 @@ Goals: 1) Show user visual representation of rhythm/beat
        4) Add element of happy song/happy character association from midterm
 
 This project is based in Processing, and uses BeatWrite, which is an extension of the Minim library for Processing. StandardFirmata is also used to enable serial processing between arduino/processing.
-
-Inspiration: https://www.instructables.com/id/How-to-Make-LEDs-Flash-to-Music-with-an-Arduino/
-
-Link to final images/video:
-https://drive.google.com/open?id=0B1wwFJOwtbwjelptMUthb0VOejA
-
-Link to failures/works in progress/mostly failures:
-https://drive.google.com/open?id=0B1wwFJOwtbwjTm4tYkxsX3ZGbGs
-
-
 
 Modifications/Complications:
 1. MP3 file.
