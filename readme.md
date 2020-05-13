@@ -6,7 +6,7 @@
 
 The repository for my final project for my Physical Computing class while an undergrad at the University of Miami.
 
-The project creates a flashing LED screen that lights up in time with the rhythmic groove of the Beatles' "Here Comes the Sun".
+The project creates a flashing LED screen that lights up in time with the rhythmic groove of the Beatles' "Here Comes the Sun", seen [here](https://vimeo.com/243977097).
 
 It won Best in Show at the 2017 Interactive Media Showcase at the University of Miami.
 
